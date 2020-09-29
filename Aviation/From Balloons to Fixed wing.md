@@ -1,8 +1,12 @@
 # Airfoil
 Structure designed to obtain a reaction upon its surface from the air through which it moves
 
+---
+
 #### Must know
-![[Pasted image 20200929085743.png]]
+![Must know](mustknow.png)
+
+---
 
 ### 4 Forces Acting on an Airplane
 1. Thrust
