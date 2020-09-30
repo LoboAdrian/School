@@ -2,7 +2,7 @@
 Structure designed to obtain a reaction upon its surface from the air through which it moves
 
 #### Must know
-![Must know](mustknow.png)
+![Must know](Images/mustknow.png)
 
 ### 4 Forces Acting on an Airplane
 1. Thrust
@@ -49,9 +49,9 @@ Published his 15 years of work, but why?
 #### 1849 Glider
 - Cayley's first full-size glider in 1849
 - In 1849, ten-year-old son of one his servants became the first person in history to fly a heavier-than-air airplane
-![1849 Glider](1849glider.png)
+![1849 Glider](Images/1849glider.png)
 
 #### 1853 Glider - 80 years old
 - In 1853, a single-wing glider
 - First recorded flight by an adult in a heavier-than-air aircraft
-![1853 Glider](1853glider.png)
+![1853 Glider](Images/1853glider.png)
