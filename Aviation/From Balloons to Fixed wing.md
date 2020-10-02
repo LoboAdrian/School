@@ -26,7 +26,9 @@ Structure designed to obtain a reaction upon its surface from the air through wh
 
 ---
 
-# Sir Cayley
+# Great Glider Pilots
+
+## Sir Cayley
 - Often referred too as **the father of aviation**
 - Used a **barn door** as his **control surface**
 - Not yet dicovered **camber**
@@ -55,3 +57,31 @@ Published his 15 years of work, but why?
 - In 1853, a single-wing glider
 - First recorded flight by an adult in a heavier-than-air aircraft
 ![1853 Glider](Images/1853glider.png)
+
+---
+
+## Alphonse Penaud
+- First person to fly heavier than air rubber band powered model flying machines
+- "The Father of Flying Models"
+
+#### Wright Brothers
+- Penaud's toys made Wright brothers interested in aviation
+
+---
+
+## Otto Lilienthal
+- First successful aviatior with over 2,000 glider flights
+- Built his first glider in 1891
+
+#### Lilienthal's 1891 Glider
+- Could glide almost 80 feet
+- First successful manned, heavier-than-air flying machine
+
+#### Lilienthal's Hill
+- In 1894, he built an artificcial hill to store and test his aircraft
+
+---
+
+## Octave Chanute
+- Publishes aeronautical history
+- 
