@@ -84,4 +84,17 @@ Published his 15 years of work, but why?
 
 ## Octave Chanute
 - Publishes aeronautical history
-- 
+
+ #### 1894 "_Progress in Flying Machines_"
+- First history of aviation
+- No single book contributed more to the development of aviation
+- Free exchange of ideas
+- Solid survey of almost every important experiment and invention relating to aviation
+- Careful study of past failures
+
+- Frist glider tested was a Lilienthal glinder that Herring built from plans
+
+#### Critical items missing for the truly successful flight:
+1. Engine
+2. Control
+
