@@ -21,7 +21,7 @@
 
 Caused by Earht's rotation
 
-### Wind
+## Wind
 
 Difference in atmospheric pressures
 
@@ -33,7 +33,7 @@ Difference in atmospheric pressures
 
 ---
 
-# Concevtive Currents
+## Concevtive Currents
 
  Uneven heating of the air in small aereas of local circulation
 
@@ -45,6 +45,19 @@ Sudden, drastic change in the wind direction
 
 ---
 
-# Hazardous Weather
+## Hazardous Weather
 
 - Cumulus nimbus clouds are the most dangerous
+
+---
+
+## Avition Weather Services
+
+#### Prefilght Weather Briefing
+
+- Decoding weather data is NOT enough
+
+- Visualize complete weather situation
+
+- Make an information "go no-go"
+weather decision
