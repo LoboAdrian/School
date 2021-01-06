@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "23ae5232df59faff",
+    "type": "split",
+    "children": [
+      {
+        "id": "034bbba2cb9479c3",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Intelligence.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e20bcfc58c3c0a0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "530f7ac80b830411",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee5c5d4aac02215a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebcd2a3fd227ea08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f27efb1f6a7fb7a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6aa999b0f26b8ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e30764f000a7efed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Intelligence.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Aviation/uas/Module1.md"
+  ]
+}
